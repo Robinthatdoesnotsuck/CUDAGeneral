@@ -1,0 +1,5 @@
+# ninja log v5
+2	2231	1691792022134761159	CMakeFiles/CudaHello.dir/lifeExp.cu.o	6866e58c8e7c76f2
+1	2024	1691384571778534945	CMakeFiles/CudaHello.dir/multVarLifeExp.cu.o	717c75d89924881e
+2231	2308	1691792022211429647	CudaHello	9ac5f71aa9579088
+1	1943	1691385737003876765	CMakeFiles/CudaHello.dir/iris.cu.o	aa1cf018f438fc9a
