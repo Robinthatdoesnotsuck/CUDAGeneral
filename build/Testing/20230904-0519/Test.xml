@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20230904-0519-Experimental"
+	Name="colaarch-rogflowx13gv301qhgv301qh"
+	Generator="ctest-3.27.4"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="13.2.1"
+	OSName="Linux"
+	Hostname="colaarch-rogflowx13gv301qhgv301qh"
+	OSRelease="6.4.12-arch1-1"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Thu, 24 Aug 2023 00:38:14 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="80"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="16934"
+	TotalPhysicalMemory="15395"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4041.81"
+	>
+	<Testing>
+		<StartDateTime>Sep 03 23:19 CST</StartDateTime>
+		<StartTestTime>1693804749</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 03 23:19 CST</EndDateTime>
+		<EndTestTime>1693804749</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
